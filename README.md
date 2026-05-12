@@ -1,5 +1,7 @@
 # Travel Assistant
 
+🔗 **[Live demo →](https://aitravelassistant.streamlit.app/)**
+
 An LLM-powered travel itinerary generator. Give it a destination, dates, budget, and your interests; it builds a day-by-day plan with weather forecasts, flight suggestions, and a multilingual PDF export.
 
 ## What it does
