@@ -35,3 +35,4 @@ build/
 # Streamlit
 .streamlit/secrets.toml
 *.ttf
+*.pdf
